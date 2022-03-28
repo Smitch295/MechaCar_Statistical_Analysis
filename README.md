@@ -20,6 +20,9 @@ For the total summary the variance of the suspension coils is well below the lim
 ![Screen Shot 2022-03-27 at 12 15 19 PM](https://user-images.githubusercontent.com/93875400/160290658-f699ac52-8a84-4b05-a79f-4da59f15d19f.png)
 
 ## T-Tests on Suspension Coils
-### An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population (5 pt)
-### An RScript is written for three t-tests that compare each manufacturing lot against mean PSI of the population (10 pt)
-### There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt)
+
+### Summary of the t-test results across all manufacturing lots and for each lot.
+![Screen Shot 2022-03-28 at 1 49 41 PM](https://user-images.githubusercontent.com/93875400/160457158-277405a8-732d-491a-8505-6a67104ea648.png)
+![Screen Shot 2022-03-28 at 1 51 03 PM](https://user-images.githubusercontent.com/93875400/160457370-6e8e0d96-97b7-43ea-9c81-a15231b42462.png)
+![Screen Shot 2022-03-28 at 1 51 25 PM](https://user-images.githubusercontent.com/93875400/160457424-08c84c99-79c9-4893-9f8d-c3d230867239.png)
+
