@@ -23,6 +23,20 @@ For the total summary the variance of the suspension coils is well below the lim
 
 ### Summary of the t-test results across all manufacturing lots and for each lot.
 ![Screen Shot 2022-03-28 at 1 49 41 PM](https://user-images.githubusercontent.com/93875400/160457158-277405a8-732d-491a-8505-6a67104ea648.png)
+![Screen Shot 2022-03-28 at 1 52 14 PM](https://user-images.githubusercontent.com/93875400/160457539-68e2d2d2-8fc9-4c9e-9842-5a854f2a5aa8.png)
 ![Screen Shot 2022-03-28 at 1 51 03 PM](https://user-images.githubusercontent.com/93875400/160457370-6e8e0d96-97b7-43ea-9c81-a15231b42462.png)
 ![Screen Shot 2022-03-28 at 1 51 25 PM](https://user-images.githubusercontent.com/93875400/160457424-08c84c99-79c9-4893-9f8d-c3d230867239.png)
 
+## Study Design: MechaCar vs Competition
+#### What metric or metrics are you going to test?
+cost of vehicle.
+
+##### What is the null hypothesis or alternative hypothesis?
+null hypothesis: There is no difference between cost of vehicles of MechaCar and the competition.
+alternative hypothesis: There is a significant diffference between the cost vehicles of MechaCar and the competition.
+
+#### What statistical test would you use to test the hypothesis? And why?
+I would use a two-sample t-test to determine if the mean cost is signicantly different between the know variables. 
+
+#### What data is needed to run the statistical test?
+I will the need the cost of the different types of vehicles for both MechaCar and their competition.
